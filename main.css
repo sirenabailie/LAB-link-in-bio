@@ -45,7 +45,7 @@ body {
 
 .btn {
   position: relative;
-  z-index: 2;
+  z-index: 3;
   padding: 20px 30px;
   color: darkblue;
   font-size: 20px;
